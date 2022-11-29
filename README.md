@@ -2,16 +2,15 @@
 Movie-Recommender System
 A movie recommender system is a system that seeks to predict or filter preferences according to the user's choices. The created Web-App using Python is a similar system, which suggests movies based on the user's liked movies.
 
-The model has been trained using a dataset of 5,000 movies! Find the dataset here 🔗
 
-Download the similarity model file (pkl) from here 🔗
 
 Tech Used
-Language: Python (3.9)
+Language: Python (3.9) 
 
 Front-End: Streamlit
 
-Please Note that this technology is being used for the latest version. Further improvements in the project may result in changes in the technology used. It will be updated above as well.
+Please Note that this technology is being used for the latest version. 
+Further improvements in the project may result in changes in the technology used. It will be updated above as well.
 
 Installation / Working
 Requirements
@@ -34,15 +33,6 @@ pip install streamlit
 Working Demo
 The demo working of this web app can be found here 🔗 | Do like it, if you watch it :)
 
-🚀 Thanks
-Thanks for looking into the project and being here. Feel free to share your reviews/suggestions/remarks! :)
-
-If you found it useful, leave a ⭐ here!
-
-License
-MIT
-
-Ending Credits
 
 Made using Python and Streamlit
 Author : Arasu
