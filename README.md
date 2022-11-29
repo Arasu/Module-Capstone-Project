@@ -30,8 +30,7 @@ Type the following command (for web app) :
 streamlit run app.py
 Make sure you have streamlit installed on your local device, if not installed, type the following to install (windows) :
 pip install streamlit 
-Working Demo
-The demo working of this web app can be found here 🔗 | Do like it, if you watch it :)
+
 
 
 Made using Python and Streamlit
