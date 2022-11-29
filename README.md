@@ -6,7 +6,7 @@ A movie recommender system is a system that seeks to predict or filter preferenc
 Tech Used
 Language: Python (3.9) 
 
-Front-End: Streamlit
+
 
 Please Note that this technology is being used for the latest version. 
 Further improvements in the project may result in changes in the technology used. It will be updated above as well.
